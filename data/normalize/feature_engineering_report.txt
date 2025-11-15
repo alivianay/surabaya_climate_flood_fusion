@@ -1,0 +1,60 @@
+======================================================================
+FEATURE ENGINEERING REPORT
+NIM: 22031554041 | Periode: Jan-Feb 2023
+======================================================================
+
+1. ORIGINAL FEATURES
+----------------------------------------------------------------------
+ 1. TANGGAL
+ 2. TN
+ 3. TX
+ 4. TAVG
+ 5. RH_AVG
+ 6. RR
+ 7. SS
+ 8. FF_X
+ 9. DDD_X
+10. FF_AVG
+11. DDD_CAR
+12. tweet_count
+13. hujan_mention
+14. banjir_mention
+15. macet_mention
+
+2. ENGINEERED FEATURES
+----------------------------------------------------------------------
+ 1. Month
+ 2. day_of_week
+ 3. day_name
+ 4. week_of_year
+ 5. is_weekend
+ 6. temp_range
+ 7. heat_index
+ 8. rain_category
+ 9. rainfall_3day
+10. rainfall_7day
+11. weather_condition
+12. wind_category
+13. wind_direction_simple
+14. engagement_rate
+15. flood_risk_score
+16. social_activity_level
+17. weather_awareness
+18. rain_humidity_interaction
+19. temp_sunlight_interaction
+20. rain_social_interaction
+21. RR_lag1
+22. TAVG_lag1
+23. tweet_count_lag1
+
+Total Features: 38
+Original: 15, New: 23
+
+3. KEY INSIGHTS
+----------------------------------------------------------------------
+• Total rainfall: 134549.00 mm
+• Avg temperature: 29.01°C
+• Total tweets: 48
+• Days with rain: 87
+• High flood risk days: 7
+• Weather awareness rate: 2.2%
