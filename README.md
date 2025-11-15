@@ -946,9 +946,3 @@ df['flood_risk_score'] = (
 ```
 
 ---
-
-**End of Report**
-
-*Generated: 2024*  
-*Project: Surabaya Climate-Flood Fusion*  
-*Author: NIM 22031554041*
