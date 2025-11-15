@@ -1,6 +1,6 @@
 ======================================================================
 FEATURE ENGINEERING REPORT
-NIM: 22031554041 | Periode: Jan-Feb 2023
+NIM: 22031554041 | Periode: Jan-Dec 2023
 ======================================================================
 
 1. ORIGINAL FEATURES
@@ -52,9 +52,9 @@ Original: 15, New: 23
 
 3. KEY INSIGHTS
 ----------------------------------------------------------------------
-• Total rainfall: 134549.00 mm
-• Avg temperature: 29.01°C
-• Total tweets: 48
-• Days with rain: 87
-• High flood risk days: 7
-• Weather awareness rate: 2.2%
+  Total rainfall: 134549.00 mm
+  Avg temperature: 29.01 C
+  Total tweets: 48
+  Days with rain: 87
+  High flood risk days: 7
+  Weather awareness rate: 2.2%
