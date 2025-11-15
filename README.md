@@ -2,9 +2,7 @@
 ## Comprehensive Technical Report
 
 **Project Name:** Surabaya Climate-Flood Fusion  
-**Author:** NIM 22031554041  
-**Period:** January - December 2023  
-**Date:** 2024
+**Period:** January - December 2023
 
 ---
 
